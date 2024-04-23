@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently working on everything that has to do with technology.
+
 <!--
 **jzapater/jzapater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
